@@ -1,4 +1,4 @@
-# Melhore seu perfil da página inicial do GitHub.
+align="center # Melhore seu perfil da página inicial do GitHub.
 ---
 <br clear="both">
 <h1 align="center">Quem sou eu? 🗺️!</h1>
