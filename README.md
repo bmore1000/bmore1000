@@ -1,14 +1,20 @@
 <h1 align="center"><b>Melhore seu perfil da página inicial do GitHub.</b></h1>
 <h1 align="center">Quem sou eu? 🗺️!</h1>
+<br>
+<img src="https://komarev.com/ghpvc/?username=bmore1000&color=0077B5">
+<br>
 <h2 align="justify">Eu sou o Bernardo Moreira 4.2. Acredito no aprendizado contínuo, Dito isto, não me canso de estudar e aprender a aprender. 🗺️!</h2>
 <h2 align="justify">Desde 2004 aprendendo a cada dia um pouquinho de Informática. 🗺️!</h2>
-<h2 align="center">Habilidades!</h2>
+<h2 align="center">⭐️ Habilidades! ⭐️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img width="400" src="https://skillicons.dev/icons?i=git,github,html,vscode,ps,gmail,ubuntu,linkedin,windows,markdown,linux" />
   </a>
 </p>
         <br>
+        <h1 align="center"><b> 🎓 Formação acadêmica. 🎓</b></h1>
+        <!-- IESAM --> <img src="https://img.shields.io/badge/IESAM-185833?style=for-the-badge&logo=python&logoColor=blue"> 
+        <!-- IGUAÇÚ --> <img src="https://img.shields.io/badge/IGUAÇÚ-185833?style=for-the-badge&logo=python&logoColor=blue"> 
 <div align="center">
     <img align=center margin=10 width=200 src="https://avatars.githubusercontent.com/u/151203779?s=400&u=589dd5cb9033d9161e522ce209ddb344cc3737e0&v=4" title="Bernardo Moreira" />
 </div>
