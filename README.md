@@ -1,6 +1,6 @@
 <h1 align="center"><b>Melhore seu perfil da página inicial do GitHub.</b></h1>
 <h1 align="center">Quem sou eu? 🗺️!</h1>
-<h2 align="justify">Eu sou o Bernardo Moreira. Acredito no aprendizado contínuo, Dito isto não me canso de estudar. 🗺️!</h2>
+<h2 align="justify">Eu sou o Bernardo Moreira 4.2. Acredito no aprendizado contínuo, Dito isto, não me canso de estudar e aprender a aprender. 🗺️!</h2>
 <h2 align="justify">Desde 2004 aprendendo a cada dia um pouquinho de Informática. 🗺️!</h2>
 <h2 align="center">Habilidades!</h2>
 <p align="center">
