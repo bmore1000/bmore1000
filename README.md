@@ -1,20 +1,17 @@
 <a href="https://copilot.microsoft.com/" target="_blank"><img src="./imgs/bannercopilot.png" title="Imagem criada por IA - COPILOT" /></a>
 <p align="center"><img width="160" src="https://komarev.com/ghpvc/?username=bmore1000&color=0077B5"></p>
-<br>
 <h1 align="center"><b>Perfil GitHub.</b></h1>
-<h1 align="center">Quem sou eu? 🗺️!</h1>
-    <br>
-<h2 align="justify">Eu sou o Bernardo Moreira 4.2. Acredito no aprendizado contínuo, Dito isto, não me canso de estudar e aprender a aprender. 🗺️!</h2>
-<h2 align="justify">Desde 2004 aprendendo a cada dia um pouquinho de Informática. 💻</h2>
-<h2 align="center"> 💻 Microlins | SENAI | SENAC | FURUKA | MOTOROLA 💻 </h2>
-<h2 align="center">⭐️ Habilidades desenvolvidas! ⭐️</h2>
+<h1 align="center">👾 Quem sou eu?</h1>
+<h2 align="justify">🖖 Eu sou o Bernardo Moreira 4.2. Acredito no aprendizado contínuo, Dito isto, não me canso de estudar e aprender a aprender.</h2>
+<h2 align="justify">💻 Desde 2004 aprendendo a cada dia um pouquinho de Informática.</h2>
+<h2 align="center"> 🚀 Microlins | SENAI | SENAC | FURUKAWA | MOTOROLA </h2>
+<h2 align="center">⭐️ Tecnologias utilizadas. </h2>
 <p align="center">
     <a href="https://skillicons.dev">
-    <img width="400" src="https://skillicons.dev/icons?i=git,github,html,vscode,ps,gmail,ubuntu,linkedin,windows,markdown,linux" />
+    <img width="500" src="https://skillicons.dev/icons?i=git,github,html,vscode,ps,gmail,ubuntu,linkedin,windows,markdown,linux" />
     </a>
 </p>
-      <br>
-        <h1 align="center"><b> 🎓 Formação acadêmica. 🎓</b></h1>
+        <h1 align="center"><b> 🎓 Formação acadêmica.</b></h1>
         <h1>Graduação pelo Instituto de Estudos Superiores da Amazônia - IESAM.</h1>
         
   <a href="https://estacio.br/" target="_blank"><img margin=10 width=200 src="./imgs/iesam.png" title="IESAM" /></a>
@@ -25,7 +22,7 @@
 <div align="center">
     <br clear="both">
 <div align="center">
-    <h1 align="justify"><b>💻 Atualmente participo de Boot Camps pela Digital Innovation One.</b></h1>
+    <h1 align="justify"><b>☄️ Atualmente aprendo IA nos Bootcamps da Digital Innovation One.</b></h1>
     <a href="https://web.dio.me/home" target="_blank"><img margin=10 width=100 src="https://hermes.dio.me/assets/diome/logo.png" title="DIO" /></a>
     </div>
     <br clear="both">
