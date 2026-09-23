@@ -2,7 +2,7 @@
 <p align="center"><img width="160" src="https://komarev.com/ghpvc/?username=bmore1000&color=0077B5"></p>
 <h1 align="center"><b>Perfil GitHub.</b></h1>
 <h1 align="center">👾 Quem sou eu?</h1>
-<h2 align="justify">🖖 Eu sou o Bernardo Moreira 4.4. Acredito no aprendizado contínuo, Dito isto, não me canso de estudar e aprender a aprender.</h2>
+<h2 align="justify">🖖 Eu sou o Bernardo Moreira 4.4. Acredito no aprendizado contínuo, dito isto, não me canso de estudar e aprender a aprender.</h2>
 <h2 align="justify">💻 Desde 2004 aprendendo a cada dia um pouquinho de Informática.</h2>
 <h2 align="center"> 🚀 Microlins | SENAI | SENAC | FURUKAWA | MOTOROLA </h2>
 <h2 align="center">⭐️ Tecnologias utilizadas. </h2>
